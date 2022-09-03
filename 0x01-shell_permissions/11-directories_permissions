@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a=r,u=rwx my_dir
+chmod -R a=rx,u=rwx my_dir
